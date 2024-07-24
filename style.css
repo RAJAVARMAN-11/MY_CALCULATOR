@@ -1,0 +1,52 @@
+#calculator{
+    width: 350px;
+    border-radius: 10px;
+    height: 450px;
+    text-align: center;
+    position:absolute;
+    left:40%;
+    top:22%;
+    background-color: rgb(202, 131, 244);
+}
+#display{
+    height: 80px;
+    background-color: rgb(238, 201, 237);
+    width: 300px;
+    margin-bottom: 10px ;
+    border-radius: 10px;
+    font-size: large;
+    
+}
+#ans{
+    font-size:large;
+}
+#content{
+    position: absolute;
+    left: 7%;
+}
+button{
+    margin-left: 8px;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+    font-size: large;
+    background-color: rgb(205, 199, 206);
+}
+#cells{
+    background-color: blueviolet;
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    
+}
+#clc_cell{
+     position: absolute;
+     top:82%;
+     left: 33%;
+     
+}
+#clc_but{
+    height: 70x;
+    width: 100px;
+}
